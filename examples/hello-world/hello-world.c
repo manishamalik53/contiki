@@ -48,7 +48,7 @@ PROCESS_THREAD(hello_world_process, ev, data)
 {
   PROCESS_BEGIN();
 
-  printf("Hello, world\n");
+  printf("Hello, world..jai sitaram ji\n");
   
   PROCESS_END();
 }
